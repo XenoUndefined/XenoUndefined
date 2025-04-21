@@ -4,5 +4,5 @@ I am **xeno**, an not so known Roblox scripter.
 - Decent at Lua
 - Most noticable with Luau
   
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XenoUndefined)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XenoUndefined&theme=tokyonight)
 
