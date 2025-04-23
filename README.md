@@ -1,6 +1,6 @@
-# Hello There!
-I am **xeno**, a not so known Roblox scripter.
-# Knowledges
+# Hello!
+I am xeno
+# Intelligence
 - Decent at Lua
 - Most noticable with Luau
   
