@@ -10,6 +10,6 @@ I have been with roblox scripting for over 1 year now and I was borned in Japana
 - C++ - Paused
 ## Most used languages
 Most of my repositorys are LUA
-[!Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=voyager19878)
+https://github-readme-stats.vercel.app/api/top-langs/?username=voyager19878
 ## Contacts
 - Discord: xenoundefined
