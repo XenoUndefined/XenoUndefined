@@ -5,5 +5,5 @@ I am xeno
 - Most noticable with Luau
 
   
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XenoUndefined&theme=tokyo-night)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XenoUndefined&theme=tokyonight)
 
